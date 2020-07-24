@@ -1,0 +1,31 @@
+/*
+Theme Name: Lorem Lore
+Theme URI: 
+Description: 
+Author: Lorem Lore
+Author URI: 
+Template: oceanwp
+Version: 1.0
+*/
+
+/* Parent stylesheet should be loaded from functions.php not using @import */
+@font-face {
+  font-family: Poppins;
+  src:http://localhost/wordpress/wp-content/themes/oceanwp-child-theme/Fonts/Poppins-Regular.tff;
+  font-weight: 500;
+}
+@font-face {
+  font-family: Poppins;
+  src:http://localhost/wordpress/wp-content/themes/oceanwp-child-theme/Fonts/Poppins-Medium.tff;
+  font-weight: 600;
+}
+@font-face {
+  font-family: Poppins;
+  src:http://localhost/wordpress/wp-content/themes/oceanwp-child-theme/Fonts/Poppins-SemiBold.tff;
+  font-weight: 700;
+}
+@font-face {
+  font-family: Poppins;
+  src:http://localhost/wordpress/wp-content/themes/oceanwp-child-theme/Fonts/Poppins-Bold.tff;
+  font-weight: bold;
+}
